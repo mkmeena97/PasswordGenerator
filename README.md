@@ -14,7 +14,7 @@ To use the app, follow these steps:
 
 <li>Run npm run dev to start the development server.</li>
 <li>Open your browser and navigate to <a>http://localhost:3000</a></li>
-<li>Enter the desired length of your password in the input field.</li>
+<li>select the desired length of your password in the input field.</li>
 <li>Check the boxes for numbers and special characters if you want them included in your password.</li>
 
 # Contributing
