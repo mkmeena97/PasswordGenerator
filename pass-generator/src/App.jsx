@@ -91,7 +91,7 @@ function App() {
       <label
       className='text-orange-300'
        htmlFor='charinput'
-       >Number</label>
+       >Character</label>
     </div>
 
    </div>
